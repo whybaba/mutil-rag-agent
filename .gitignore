@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.log
+logs/
+data/
+volumes/
+.DS_Store
+*.pid
+benchmark/reports/.env 

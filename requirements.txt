@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-openai
+pymilvus
+redis
+psycopg2-binary
+sqlalchemy
+python-dotenv
+pydantic
+httpx
+pandas
+numpy
+tiktoken
+aiofiles
